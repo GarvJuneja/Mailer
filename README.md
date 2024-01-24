@@ -1,4 +1,4 @@
-![image](https://github.com/GarvJuneja/Mailer/assets/69846494/001ba35c-bc4c-4396-91b7-fc5dd66ae64a)![image](https://github.com/GarvJuneja/Mailer/assets/69846494/a61935dc-7fbb-4e3b-9172-469c28592b09)# Mailer
+# Mailer
 
 Idea Behind the project: The primary objective of “ENTERPRISE MAILER SYSTEM” is to develop a full fledged intranet mailing system that enhances communications among the members of the organization in a reliable, cost effective and secure way.
 The intranet mailing system is designed to provide a communication channel inside an organization on a LAN network.
